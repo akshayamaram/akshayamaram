@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshayamaram
 - 👀 I’m right now interested in Frontend Web Development
-- 🌱 I’m currently learning typescript, react & dsa
+- 🌱 I’m currently learning typescript, react.js & node.js
 - 💞️ I’m looking to collaborate on, maybe frontend projects for now..? i guesss
 - 📫 How to reach me akshayamaram@outlook.com
 - ⚡ Fun fact: A group of pandas is called an "embarrassment." Well, that's a harsh term for these adorable creatures! ,
